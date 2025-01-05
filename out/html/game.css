@@ -520,7 +520,7 @@ table {
 
 /* Styles for parties */
 .seat.kpd {
-    fill: #8B0000;
+    fill: #C43988;
 }
 .seat.spd {
     fill: #E3000F;
@@ -549,7 +549,7 @@ table {
     fill: #954B00;
 }
 .seat.sapd {
-    fill: #C40000;
+    fill: #8B0000;
 }
 
 .tooltip-text {
